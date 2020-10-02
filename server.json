@@ -1,0 +1,40 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "title": "Calcinha vermelha",
+            "price": 29.00
+
+        },
+
+        {
+            "id": 2,
+            "title": "Calcinha azul",
+            "price": 29.00
+
+        },
+
+        {
+            "id": 3,
+            "title": "Calcinha branca",
+            "price": 29.00
+
+        }
+    ],
+    "stock": [
+        {
+            "id": 1,
+            "quantidy": 3
+        },
+
+        {
+            "id": 2,
+            "quantidy": 6
+        },
+
+        {
+            "id": 3,
+            "quantidy": 10
+        }
+    ]
+}
